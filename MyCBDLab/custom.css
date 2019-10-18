@@ -1,0 +1,15 @@
+.prodbuttons{
+	margin-top: 10px;
+	padding: 0px !important;
+}
+
+.prodbuttons > a {
+	padding: 5px 15px !important;
+	width: 100%; 
+}
+.primary-menu > li > a{
+	padding: 0 20px !important; 
+}
+.ct-fancybox-icon > i {
+	background-image: linear-gradient(to right, #38B675,#5FC7CD)
+}
